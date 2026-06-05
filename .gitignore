@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# QGIS
+*.qgs~
+*.qgz~
+*.qgd
+*.qlr~
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.env
+
+# Misc
+Thumbs.db
+*.tmp
+*.bak
+*.swp
